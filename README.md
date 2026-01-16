@@ -14,10 +14,17 @@ Currently expanding my skills in cloud databases and data integration.
 - Learning Azure database services
 
 # Project: "SQL Query Library"
+
 /queries
+
   /date-functions
+  
     - function-dates.sql
+    
     - format-dates.sql
+    
   /analysis
+  
     - database-analysis.sql
+    
     - table-analysis.sql
